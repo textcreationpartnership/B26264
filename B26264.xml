@@ -1,0 +1,327 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The love-sick maid of Portsmouth See how by Heavens great providence, these lovers did unite, for she lov'd him, and he lov'd her, and did themseves [sic] deligt [sic]. At first he seem'd to deny, at last he seem'd to bow, and gratified her faithful love, by keeping true loves vow. To the tune of, Genny Gin. Entred according to order</title>
+         </titleStmt>
+         <extent>Approx. 6KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B26264</idno><idno type="EEBO-CITATION">99888137</idno>
+  <idno type="VID">193196</idno>
+  <idno type="EEBO-PROQUEST">2240882509</idno>
+  
+            <idno type="STC">Wing L3214</idno>
+            <idno type="STC">Interim Tract Supplement Guide C.20.f.10[54]</idno>
+            <idno type="PROQUEST">ocm99888137</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99888137e"/>
+            <note>(EEBO-TCP ; phase 2, no. B26264)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 193196)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; A6:2[54])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The love-sick maid of Portsmouth See how by Heavens great providence, these lovers did unite, for she lov'd him, and he lov'd her, and did themseves [sic] deligt [sic]. At first he seem'd to deny, at last he seem'd to bow, and gratified her faithful love, by keeping true loves vow. To the tune of, Genny Gin. Entred according to order</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.) : ill. (woodcuts)  </extent>
+               <publicationStmt>
+                  <publisher>Printed for J. Blare on Londone-Bridge,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>[not before 1682]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Date of publication from Wing CD-ROM.</note>
+                  <note>Verse: "There is a lad in our town,".</note>
+                  <note>Imperfect: copy stained and trimmed, affecting some text.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Ballads, English --  17th century.</term>
+               <term type="genre_form">Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="song">
+            <pb facs="tcp:193196:1"/>
+            <head>The Love-sick Maid of Portsmouth</head>
+            <argument>
+               <q>
+                  <l>See how by Heavens great Providence,</l>
+                  <l>th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>se Lovers did Ʋnite,</l>
+                  <l>For she lov'd him, and he lov'd her,</l>
+                  <l>and did themseves delight.</l>
+                  <l>At first he seem'd to deny,</l>
+                  <l>at last he seem'd to bow,</l>
+                  <l>and gratified her faithful Love,</l>
+                  <l>by keeping true Loves Vow.</l>
+               </q>
+            </argument>
+            <opener>To the Tune of, <hi>Genny Gin. <hi>Entred according to Order:</hi>
+               </hi>
+            </opener>
+            <p>
+               <figure>
+                  <figDesc>a woman</figDesc>
+               </figure>
+               <figure>
+                  <figDesc>a man extending his hand to a woman</figDesc>
+               </figure>
+               <figure>
+                  <figDesc>a woman holding a fan</figDesc>
+               </figure>
+            </p>
+            <lg>
+               <l>THere is a lad in our Town,</l>
+               <l>a proper handsome Youth,</l>
+               <l>He is a Carpenter by trade,</l>
+               <l>I tell you but the truth.</l>
+               <l>There is a lass in our Town,</l>
+               <l>to him a wooing came,</l>
+               <l>Give ear and listen unto me,</l>
+               <l>and I'le declare her name,</l>
+            </lg>
+            <lg>
+               <l>She is a proper handsome lass,</l>
+               <l>compleat in every part,</l>
+               <l>She told this young-man such fair Tales,</l>
+               <l>she thought to win his heart,</l>
+               <l>She came to him both night and day,</l>
+               <l>as plainly doth appear:</l>
+               <l>His name is <hi>Richard</hi> and she said,</l>
+               <l>she loved uim most dear.</l>
+            </lg>
+            <lg>
+               <l>Her name is pretty kissing bess,</l>
+               <l>a comely lass but brown,</l>
+               <l>She is as kind a loving lass,</l>
+               <l>as lives in <hi>Portsmouth</hi> Town:</l>
+               <l>But I have head it often said,</l>
+               <l>of all the Neighbours by,</l>
+               <l>Although she followed him so close,</l>
+               <l>still he did her deny.</l>
+            </lg>
+            <sp>
+               <speaker>Maid.</speaker>
+               <lg>
+                  <l>
+                     <gap reason="illegible" resp="#murp" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>
+                  </l>
+                  <l>
+                     <gap reason="illegible" resp="#murp" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>
+                  </l>
+                  <l>Give me one word of comfort now,</l>
+                  <l>to ease my troubleb breast,</l>
+                  <l>Alas alas 'tis you alone,</l>
+                  <l>that can my help procure,</l>
+                  <l>'Tis you your selfe that made the wound,</l>
+                  <l>and none but you can cure.</l>
+               </lg>
+               <lg>
+                  <l>Alas my dearest love she said,</l>
+                  <l>you do not know my smart</l>
+                  <l>That I endure for your dear sake,</l>
+                  <l>ah me twill break my heart,</l>
+                  <l>'Tis for your sake good Sir indeed,</l>
+                  <l>that I these pains indure,</l>
+                  <l>Vnless you help me in my need,</l>
+                  <l>I cant expect a cure.</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Man,</speaker>
+               <lg>
+                  <l>The thing it is so great he said,</l>
+                  <l>that you of me do crave,</l>
+                  <l>Then take this for an answer flat.</l>
+                  <l>my heart you cannot have:</l>
+                  <l>A Carpenters heart it is too small</l>
+                  <l>your lofty breasts to fill,</l>
+                  <l>You said you'l have forty for a great,</l>
+                  <l>in that you did doe ill.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <gap reason="illegible" resp="#murp" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>
+                  </l>
+                  <l>
+                     <gap reason="illegible" resp="#murp" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>
+                  </l>
+                  <pb facs="tcp:193196:1"/>
+                  <l>
+                     <figure>
+                        <figDesc>a man</figDesc>
+                     </figure>
+                     <figure>
+                        <figDesc>a woman extending her hand to a man</figDesc>
+                     </figure> Goods farthest fetcht and dearest bought,</l>
+                  <l>may lull your sence to sleep:</l>
+                  <l>But since you made so slight of me,</l>
+                  <l>i'le be as slight to you,</l>
+                  <l>Such scornful and Pragmatick Dames,</l>
+                  <l>perchance your selves undone.</l>
+               </lg>
+               <lg>
+                  <l>Sweet heart you know it cannot be,</l>
+                  <l>alas I am too young,</l>
+                  <l>And to a Mariage state I know,</l>
+                  <l>not what thereto belongs,</l>
+                  <l>You say a <hi>Caulcer</hi> needs must be,</l>
+                  <l>a favourite in thy breast,</l>
+                  <l>But as I am I'le still be free,</l>
+                  <l>only my mind is still exprest.</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Maid.</speaker>
+               <lg>
+                  <l>Indeed good Sir it is not so,</l>
+                  <l>a <hi>Caulcet</hi> I defie,</l>
+                  <l>And you will quickly break my heart,</l>
+                  <l>if you do me deny:</l>
+                  <l>Therefore come help me in distress.</l>
+                  <l>so strong is my desire.</l>
+                  <l>That I do burn in fiery flames,</l>
+                  <l>and feel Loves scorching fire.</l>
+               </lg>
+               <lg>
+                  <l>Alas good Sir now will I stay,</l>
+                  <l>this seven years for your sake</l>
+                  <l>And if you prove but kind to me,</l>
+                  <l>my vows I ne'r will break,</l>
+                  <l>Let gentle <hi>Cupid</hi> bend his bow,</l>
+                  <l>and with his nimble dart,</l>
+                  <l>So penetrate that you may know,</l>
+                  <l>the pains of Lovers smart.</l>
+               </lg>
+               <lg>
+                  <l>Oh never more expect from me,</l>
+                  <l>a kind glance from mine eye,</l>
+                  <l>I hate blind <hi>Cupids</hi> cruelty,</l>
+                  <l>and must your suit deny:</l>
+                  <l>But what of me you seem to crave,</l>
+                  <l>For till I'me layed in my grave,</l>
+                  <l>my fancy shall be free.</l>
+               </lg>
+               <lg>
+                  <l>This Damsel then did trembling stand,</l>
+                  <l>to hear this young man speak,</l>
+                  <l>Alas said she what shall I do,</l>
+                  <l>with love my heart will break,</l>
+                  <l>And therewithal she wrung her hands,</l>
+                  <l>her colour came and went,</l>
+                  <l>By which you well may understand,</l>
+                  <l>that true loves passion ment.</l>
+               </lg>
+               <lg>
+                  <l>Her Cherry lips that were so red,</l>
+                  <l>did wax both wan and pale,</l>
+                  <l>And for the sorrow she conceiv'd.</l>
+                  <l>her vitals they did fail:</l>
+                  <l>And falling deep into a trance,</l>
+                  <l>for half an hours space,</l>
+                  <l>This young-man with an akeing heart,</l>
+                  <l>beheld her lovesiick face.</l>
+               </lg>
+               <lg>
+                  <l>He seeing of this sudden change,</l>
+                  <l>his heart began to melt,</l>
+                  <l>Full soon the heavy wounding smart,</l>
+                  <l>of <hi>Cupids</hi> Arrows felt:</l>
+                  <l>This pain he could no more endure,</l>
+                  <l>but went to her in haste;</l>
+                  <l>And kindly in his loving arms,</l>
+                  <l>this Damosel he imbrac'd.</l>
+               </lg>
+               <lg>
+                  <l>My dear said he content thy self,</l>
+                  <l>to end all further strife,</l>
+                  <l>As soon as e're my time is out,</l>
+                  <l>thou shalt be made my wife:</l>
+                  <l>Thus you may see when Providence,</l>
+                  <l>a Marriage doth decree,</l>
+                  <l>That they shall meet in spite of fate,</l>
+                  <l>and cannot hindred bee.</l>
+               </lg>
+            </sp>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed for <hi>I. Blare,</hi> on <hi>London-Bridge.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
